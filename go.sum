@@ -10,6 +10,8 @@ github.com/gethinode/hinode/v2 v2.0.0 h1:Fvlz1b961sJ4Knbhr/Cpg9VyoKQYnVheo0pfVqE
 github.com/gethinode/hinode/v2 v2.0.0/go.mod h1:DAz2EP6t5DdXoK411zTK6HJwYfsMRcPd80zIimSfTLY=
 github.com/gethinode/hinode/v2 v2.1.0 h1:xL1d//kNycG1xFR8Z1eABl1dWkKgAW89JWKWkgcfYbM=
 github.com/gethinode/hinode/v2 v2.1.0/go.mod h1:DAz2EP6t5DdXoK411zTK6HJwYfsMRcPd80zIimSfTLY=
+github.com/gethinode/hinode/v2 v2.1.1 h1:pWBAjHmuHfqiHcXmcIbAEpJwkm7ROcB1SdujZpVE8ns=
+github.com/gethinode/hinode/v2 v2.1.1/go.mod h1:DAz2EP6t5DdXoK411zTK6HJwYfsMRcPd80zIimSfTLY=
 github.com/gethinode/mod-blocks v1.15.2 h1:Sx1HdveBvJuQlTw1rfKwW4nkVZfJuien+6CykLGvo90=
 github.com/gethinode/mod-blocks v1.15.2/go.mod h1:iG/4tXktwqgUyzHyRbuAHmGsdQwmEhUG/YkufNcUe+k=
 github.com/gethinode/mod-bootstrap v1.3.5 h1:bewgYpQex+dBABK0u5PUvW6IoUXLHhi1Yv9hcPzwGVc=
