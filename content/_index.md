@@ -5,8 +5,7 @@ content_blocks:
   - _bookshop_name: hero
     heading:
       title: Welcome to Hinode!
-      content: |-
-        A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
+      content: This is my first site created with Hinode.
       width: 6
     background:
       color: primary
@@ -21,4 +20,15 @@ content_blocks:
         icon: fas chevron-right
     orientation: horizontal
     justify: center
+
+  - _bookshop_name: articles
+    heading:
+      title: My Posts
+    input:
+      section: posts
+      reverse: true
+      sort: date
+    padding: 0
+    limit: 3
+    class: border-0 card-zoom card-body-margin
 ---
